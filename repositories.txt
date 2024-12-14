@@ -1,5 +1,6 @@
 https://github.com/Moarbue/MAX31855-library
 https://github.com/ropg/LVGL_CYD
+https://github.com/KBK-Instrumentasi-Komputasi-UNNES/
 https://github.com/DigitalCodesign/MentorBit-1Rele
 https://github.com/DigitalCodesign/MentorBit-2Rele
 https://github.com/DigitalCodesign/MentorBit-3LED
